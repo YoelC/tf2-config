@@ -45,6 +45,9 @@ This is an old file I have saved. It currently serves no purpose.
 ### configs/sound_settings.cfg
 This file contains in-game volume and other related variables.
 
+### configs/tf_settings.cfg
+This file contains in-game team fortress settings that remove hinderances such as tips and other unnecessary stuff. It's a very cluttered file.
+
 ### configs/video_settings.cfg
 This file contains my in-game visual settings. They are set to medium-low.
 
