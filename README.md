@@ -87,3 +87,6 @@ Default binds.
 
 ### spy.cfg
 Default binds.
+
+### README.md
+Ignore this file.
