@@ -16,7 +16,7 @@ This file contains binds that are triggered when the user press a key from 1-3. 
 This file also controls the viewmodels, which are in *minmode 1* and *fov 70*.
 
 ### configs/crosshair_binds_jump.cfg
-This file is identical to the previous file, with the only difference being that when you press the key *1*, your viewmodel switches to *minmode 0* and *fov 90*, and when you press either 2 or 3, it defaults back to *minmode 1* and *fov 70*
+This file is identical to the previous file, with the only difference being that when you press the key *1*, your viewmodel switches to *minmode 0* and *fov 90*, and when you press either 2 or 3, it defaults back to *minmode 1* and *fov 70*.
 
 ### configs/damage_number_settings.cfg
 This file configures damage number indicators to be big and yellow, just like b4nny's.
@@ -74,7 +74,7 @@ Default binds.
 Default binds.
 
 ### medic.cfg
-Default binds plus uber bind and fake uber bind.
+Default binds + uber bind + fake uber bind + low health warning settings.
 
 ### pyro.cfg
 Default binds.
