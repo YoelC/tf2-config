@@ -86,7 +86,7 @@ Default binds.
 Default binds.
 
 ### soldier.cfg
-Default binds.
+Default binds + keybind to switch between shotgun and roamer loadouts with sounds.
 
 ### spy.cfg
 Default binds.
